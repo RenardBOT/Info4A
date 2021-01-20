@@ -1,12 +1,12 @@
-# Module de C/C++ (Info 4A)
+# Module de C/C++ (Info 4A)  
 
-## Contact : 
+## Contact :   
 
-__Prof CM :__ Olivier Bailleux
-__Prof TD :__ Dominique Micollet
-__Prof TP :__ Amine Ouazzani
+__Prof CM :__ Olivier Bailleux  
+__Prof TD :__ Dominique Micollet  
+__Prof TP :__ Amine Ouazzani  
 
 ## Commandes : 
 
-__Compiler :__ gcc -Wall[nomfichier.c] -o [nomexecutable]
-__Executer :__ .[nomexecutable]
+__Compiler :__ gcc -Wall[nomfichier.c] -o [nomexecutable]  
+__Executer :__ .[nomexecutable]  
