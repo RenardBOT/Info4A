@@ -8,5 +8,5 @@ __Prof TP :__ Amine Ouazzani
 
 ## Commandes : 
 
-__Compiler :__ gcc -Wall[nomfichier.c] -o [nomexecutable]  
+__Compiler :__ gcc -Wall [nomfichier.c] -o [nomexecutable]  
 __Executer :__ .[nomexecutable]  
